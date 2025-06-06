@@ -3,7 +3,7 @@ const attackRadius = 150;
 const fanAngle = 120;
 const attackInterval = 1000;
 const attackDuration = 500;
-const attackName = "回転カミナリ"; // ★変更点：技の名前をここで定義
+const attackName = "ぐるぐる"; // ★変更点：技の名前をここで定義
 
 // --- 変数 ---
 let boss;
